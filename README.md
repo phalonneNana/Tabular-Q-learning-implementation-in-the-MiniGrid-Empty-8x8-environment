@@ -51,6 +51,6 @@ The results indicate that Q-Learning outperforms SARSA with slightly better aver
 However, both algorithms achieve a 100% completion rate, indicating their success in reaching the goal. These findings contribute to the understanding and application of 
 reinforcement learning algorithms in grid-based environments, offering potential for further exploration and improvement in autonomous navigation and decision-making.
 
-# GOOD READOING :)
+# GOOD READING :)
 
 
